@@ -14,7 +14,7 @@ Getting Started
 To get the backend up and running on your local machine, follow the steps below:
 
 Ensure you have Node.js and MongoDB installed on your system.
-Clone the repository: git clone https://github.com/your/repository.git
+Clone the repository: git clone https://github.com/saad662/Inventory-Man-Back-end.git
 Navigate to the backend directory: cd backend
 Install the dependencies: npm install
 Create a .env file in the root of the backend directory and provide the necessary environment variables (e.g., database connection URI, JWT secret, etc.).
