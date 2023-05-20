@@ -1,0 +1,2 @@
+
+npm run serve   ( To start backend server)
