@@ -1,7 +1,5 @@
 const { Router } = require('express');
 const Product = require('../db/Product');
-const jwt = require('jsonwebtoken');
-const jwtKey = 'e-comm';
 
 const router = Router();
 
